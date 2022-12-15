@@ -1,0 +1,10 @@
+numpy
+pandas
+matlotlib
+nltk
+random
+pickle
+streamlit
+pip
+scikit_learn
+sklearn 
